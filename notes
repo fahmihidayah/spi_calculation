@@ -1,0 +1,5 @@
+1. cari .nc file yang sudah ada perhitungan Spi nya
+2. download .nc file global 6GB
+3. slice nc file daerah sumatra
+4. hitung pakai python
+5. tampilan harus jadi map

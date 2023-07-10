@@ -1,0 +1,7 @@
+Untuk menghiting SPI dalam bentuk format CSV :
+1. jalan kan python3 simple_spi_apps.py
+2. maka sample data pada file new_data.csv akan di hitung hilai SPInya
+
+Untuk menghitung SPI dalam bentuk format netCDF (file format .nc) :
+1. Jalankan python3 apps.py
+2. maka contoh file nc pr_2021.nc akan menghasilkan spi_result.nc

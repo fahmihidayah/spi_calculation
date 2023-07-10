@@ -1,0 +1,7 @@
+climate-indices
+netCDF4
+rioxarray
+matplotlib
+numpy
+pandas
+scipy
